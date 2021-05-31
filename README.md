@@ -1,6 +1,6 @@
 # Introduce Myself
 
-<p><img src=증사.jpg height=300 width=500>나다</p></img>
+<p><img src=증사.jpg height=300 width=500>나다</p>
 
 ---
 
