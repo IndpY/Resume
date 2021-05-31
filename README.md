@@ -4,7 +4,7 @@
 
 ---
 
-<p style="color: red;">
+<p style="color: red">
 소속 : 소프트웨어융합대학</p>
 전공 : 스마트iot
 
