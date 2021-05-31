@@ -4,8 +4,10 @@
 
 ---
 
-<span style="color : red">소속 : 소프트웨어융합대학</span>
+소속 : 소프트웨어융합대학
 전공 : 스마트iot
+
+<span style="color:red">red</span>
 
 관심분야 :
 * 생물전공
