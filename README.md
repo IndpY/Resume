@@ -26,5 +26,7 @@
 |자바|자바개요|3|
 |소프트웨어세미나1|최신소프트웨어동향|1|
 
+github address : [IndpY][github]
 
+[github]:https://github.com/IndpY
 
