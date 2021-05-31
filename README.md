@@ -1,10 +1,10 @@
 # Introduce Myself
 <img src=로고.JPG height=100 width=200> 
-<img src=증사.jpg height=300 width=500fsdfa>
+<img src=증사.jpg height=300 width=500>
 
 ---
 
-<p style="color:red">소속 : 소프트웨어융합대학</p>
+<span style="color:red">소속 : 소프트웨어융합대학</span>
 전공 : 스마트iot
 
 관심분야 :
