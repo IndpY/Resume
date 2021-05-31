@@ -2,7 +2,9 @@
 <img src=로고.JPG height=100 width=200> 
 <img src=증사.jpg height=300 width=500>
 
+<p style="color: red;">
 ---
+</p>
 
 소속 : 소프트웨어융합대학   
 전공 : 스마트iot
