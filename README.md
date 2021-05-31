@@ -1,7 +1,6 @@
-# 한림대학교 소프트웨어융합대학
+# Introduce Myself
 ---
-<img src=4.JPG height=150 width=150>
-유호연
+<img src=로고.JPG height=300 width=300>
 
 ---
 
