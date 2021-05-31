@@ -1,6 +1,6 @@
 # Introduce Myself
 <img src=로고.JPG height=100 width=200> 
-
+<img src=증사.JPG height=300 width=500>
 ---
 
 소속 : 소프트웨어융합대학   
