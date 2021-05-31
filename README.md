@@ -1,6 +1,5 @@
+<img src=로고.JPG height=100 width=100> 
 # Introduce Myself
----
-<img src=로고.JPG height=300 width=300>
 
 ---
 
