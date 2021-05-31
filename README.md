@@ -22,7 +22,7 @@
 |과목|내용|학점|
 |---|---|---|
 |C프로그래밍|c 언어|3|
-|자바|<span style="color:red">자바개요</span>|3|
+|자바|<span style="color:red">자바개요</span>|13|
 |소프트웨어세미나1|최신소프트웨어동향|1|
 
 github address : [IndpY][github]
